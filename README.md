@@ -24,5 +24,11 @@ The following powiats: **Międzyrzecki**, **Słubicki**, **Żagański** and **Go
 >- **Słubicki:** 1470 (10-year return period) to 2107 (500-year return period)
 >- **Żagański:** 2361 (10-year return period) to 3408 (500-year return period)
 >- **Gorzów Wielkopolski:** 2074 (10-year return period) to 2684 (500-year return period).
+>- 
+
+> Data:
+>- address points: https://opendata.geoportal.gov.pl/prg/adresy/PRG-punkty_adresowe.zip
+>- flood hazard maps: https://data.jrc.ec.europa.eu/dataset/1d128b6c-a4ee-4858-9e34-6210707f3c81#dataaccess
+>- boundaries: https://www.gis￾support.pl/downloads/2022/powiaty.zip
 
 
